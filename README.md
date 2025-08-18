@@ -139,7 +139,10 @@ print(f"Predicted for X = 120: {y_new_pred:.8f}")
 ### OUTPUT
 Training Loss Vs Iteration Plot
 Best Fit line plot
-Include your plot here
+
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/ba9548e5-86ed-41aa-8e5f-1be9fc8fd974" />
+
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/cebe45aa-b54e-446a-8ffb-d068ede6ffbc" />
 
 ### New Sample Data Prediction
 Include your sample input and output here
